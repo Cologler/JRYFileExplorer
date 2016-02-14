@@ -1,10 +1,10 @@
 # JRYFileExplorer
 
-a wpf file explorer like this: (thank to designer)
+a wpf file explorer like this (but with tag):
 
 ![](http://orig11.deviantart.net/689d/f/2016/042/c/f/windows_10_redesign___file_explorer__wip__by_steppiman89-d9r922u.png)
 
-UWP app do not support access like C:\ or D:\, so I have to write a desktop app.
+UWP app do not support access like C:\ or D:\, so I have to write a wpf desktop app.
 
 a lot work to do ... ^_^
 
