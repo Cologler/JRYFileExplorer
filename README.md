@@ -1,6 +1,6 @@
 # JRYFileExplorer
 
-a wpf file explorer like this (but with tag):
+a wpf file explorer like this:
 
 ![](http://orig02.deviantart.net/0549/f/2016/053/7/2/windows_10___redesign___file_explorer_by_steppiman89-d9r922u.png)
 
